@@ -1,0 +1,8 @@
+.DS_Store
+abfload/
+!escala-0024/escala.txt
+*.abf
+*.mat
+*.fig
+
+
