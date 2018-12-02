@@ -7,7 +7,7 @@
 
 ## 24 PC 
 
-#### dormido/
+#### dormido
 
 - Post-Filtro indica un filtrado digital low-pass de 2000Hz
 
@@ -20,7 +20,7 @@
 
 - `primera_invivo_sinolor.txt` datos raw de la primera medición in vivo con el 2100 en una prueba que no hubo olores, pero sirve para ver cómo se ven los ciclos en la medición in vivo con este sensor.
 
-#### dormido/
+#### dormido
 
 - El sensor está ubicado de modo tal que la exhalación es positiva
 
