@@ -1,8 +1,27 @@
 .DS_Store
+
 abfload/
+
 !escala-0024/escala.txt
+escala-0024/*.txt
+
 *.abf
 *.mat
 *.fig
+
+24PC/datos-sin-escala/
+24PC/dormido-L6/
+24PC/dormido/
+
+AWM2100/datos-sin-escala/
+AWM2100/dormido/
+AWM2100/*.txt
+AWM2100/*.fig
+AWM2100/*.mat
+
+AWM3100/*.fig
+AWM3100/*.mat
+AWM3100/*.txt
+AWM3100/figdata2txt.m
 
 
