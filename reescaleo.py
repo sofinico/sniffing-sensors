@@ -40,7 +40,7 @@ plt.show()
 
 # Cargo los datos a reescalear
 
-d = np.loadtxt('AWM2100/datos-sin-escala/lejos_exh_pos.txt', 
+d = np.loadtxt('AWM3100/datos-sin-escala/1-nov/18n01005.txt', 
                   skiprows = 1)
 t = d[:,0]
 v = d[:,1]
@@ -64,7 +64,7 @@ plt.show()
 
 # Los guardo
     
-f = open('AWM2100/dormido/lejos.txt', 'w')
+f = open('AWM3100/dormido/p1_directo4.txt', 'w')
 
 print('t(ms) reescaleado(mV)', file=f)
 for i in range(len(vreal)):

@@ -8,6 +8,7 @@ escala-0024/*.txt
 *.abf
 *.mat
 *.fig
+*.txt		
 
 24PC/datos-sin-escala/
 24PC/dormido-L6/
@@ -23,5 +24,7 @@ AWM3100/*.fig
 AWM3100/*.mat
 AWM3100/*.txt
 AWM3100/figdata2txt.m
+AWM3100/dormido/
+AWM3100/datos-sin-escala/
 
 

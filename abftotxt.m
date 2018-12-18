@@ -1,7 +1,7 @@
 %% Cargo los datos
 
 clear all
-fn='AWM2100/datos-sin-escala/lejos_exh_pos.abf';
+fn='AWM3100/datos-sin-escala/1-nov/18n01008.abf';
 [d,si,h]=abfload(fn);
 t = [0:si/1000000:(length(d)-1)*si/1000000]';
 
